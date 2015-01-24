@@ -8,3 +8,5 @@ Stay tuned.
 
 [branched addition to the file]
 [another addition to branched file, but after sup/anotherbranch was created]
+
+This is BOLD text.
